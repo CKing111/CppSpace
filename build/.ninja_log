@@ -1,0 +1,4 @@
+# ninja log v5
+1	785	1687852223776674237	CMakeFiles/hello_world.dir/helloword.o	ec44d5620fdd4756
+1	814	1687852223806674235	CMakeFiles/hello_world.dir/src/boo.o	c560b57c6b9fc0ae
+814	946	1687852223946674226	hello_world	b69a687afae62bc8
