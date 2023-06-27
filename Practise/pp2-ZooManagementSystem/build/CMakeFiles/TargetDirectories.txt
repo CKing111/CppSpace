@@ -1,0 +1,3 @@
+/home/cxk/code/Practise/pp2-ZooManagementSystem/build/CMakeFiles/zoo.dir
+/home/cxk/code/Practise/pp2-ZooManagementSystem/build/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/pp2-ZooManagementSystem/build/CMakeFiles/rebuild_cache.dir

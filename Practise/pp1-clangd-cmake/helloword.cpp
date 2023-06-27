@@ -1,28 +1,28 @@
+#include "src/boo.hpp"
+
+#include </home/cxk/project/fmt/include/fmt/core.h>
+#include </home/cxk/project/fmt/include/fmt/format.h>
 #include <array>
 #include <cstdio>
-#include</home/cxk/project/fmt/include/fmt/core.h>
-#include</home/cxk/project/fmt/include/fmt/format.h>
-#include"src/boo.hpp"
 // #include <iostream>
 
 int main() {
-//   auto arr = std::to_array({0, 1, 2, 3, 4, 5});
-  std::array<int, 6> arr = {0, 1, 2, 3, 4, 5};
+    //   auto arr = std::to_array({0, 1, 2, 3, 4, 5});
+    std::array<int, 6> arr = {0, 1, 2, 3, 4, 5};
 
-  for (int val : arr) {
-    std::printf("%d, ", val);
-  }
+    for (int val : arr) {
+        std::printf("%d, ", val);
+    }
 
-  std::printf("Hello Word!!\n");
-  Boo b1("Tom");
-  Boo b2(-1);
+    std::printf("Hello Word!!\n");
+    Boo b1("Tom");
+    Boo b2(-1);
 
-  b1.show();
-  b2.show();
-  
-  return 0;
+    b1.show();
+    b2.show();
+
+    return 0;
 }
-
 
 /*
 #include <array>
@@ -41,7 +41,6 @@ int main() {
     return 0;
 }
 */
-
 
 // using namespace std;
 
