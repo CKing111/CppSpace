@@ -1,0 +1,1 @@
+/usr/sbin/c++ CMakeFiles/StudentManager.dir/src/SManager.cpp.o CMakeFiles/StudentManager.dir/src/Student.cpp.o CMakeFiles/StudentManager.dir/src/main.cpp.o -o StudentManager  -ldl 

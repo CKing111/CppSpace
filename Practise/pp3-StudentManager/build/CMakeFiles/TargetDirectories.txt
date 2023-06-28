@@ -1,0 +1,3 @@
+/home/cxk/code/Practise/pp3-StudentManager/build/CMakeFiles/StudentManager.dir
+/home/cxk/code/Practise/pp3-StudentManager/build/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/pp3-StudentManager/build/CMakeFiles/rebuild_cache.dir

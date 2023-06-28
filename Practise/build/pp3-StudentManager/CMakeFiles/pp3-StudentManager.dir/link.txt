@@ -1,0 +1,1 @@
+/usr/sbin/c++ "CMakeFiles/pp3-StudentManager.dir/src/SManager.cpp.o" "CMakeFiles/pp3-StudentManager.dir/src/Student.cpp.o" "CMakeFiles/pp3-StudentManager.dir/src/main.cpp.o" -o /home/cxk/code/Practise/pp3-StudentManager/pp3-StudentManager 

@@ -1,0 +1,11 @@
+/home/cxk/code/Practise/build/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/build/CMakeFiles/rebuild_cache.dir
+/home/cxk/code/Practise/build/pp1-clangd-cmake/CMakeFiles/pp1-clangd-cmake.dir
+/home/cxk/code/Practise/build/pp1-clangd-cmake/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/build/pp1-clangd-cmake/CMakeFiles/rebuild_cache.dir
+/home/cxk/code/Practise/build/pp2-ZooManagementSystem/CMakeFiles/pp2-ZooManagementSystem.dir
+/home/cxk/code/Practise/build/pp2-ZooManagementSystem/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/build/pp2-ZooManagementSystem/CMakeFiles/rebuild_cache.dir
+/home/cxk/code/Practise/build/pp3-StudentManager/CMakeFiles/pp3-StudentManager.dir
+/home/cxk/code/Practise/build/pp3-StudentManager/CMakeFiles/edit_cache.dir
+/home/cxk/code/Practise/build/pp3-StudentManager/CMakeFiles/rebuild_cache.dir

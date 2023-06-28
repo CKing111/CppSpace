@@ -1,0 +1,1 @@
+/usr/sbin/c++ "CMakeFiles/pp1-clangd-cmake.dir/helloword.o" "CMakeFiles/pp1-clangd-cmake.dir/src/boo.o" -o /home/cxk/code/Practise/pp1-clangd-cmake/pp1-clangd-cmake   -L/home/cxk/code/Practise/pp1-clangd-cmake/fmt::fmt  -Wl,-rpath,/home/cxk/code/Practise/pp1-clangd-cmake/fmt::fmt /usr/local/lib/libfmt.a 

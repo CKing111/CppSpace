@@ -1,18 +1,22 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(zoo VERSION 1.0.0 LANGUAGES CXX)
+project(pp2-ZooManagementSystem VERSION 1.0.0 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
+# 设置可执行文件输出目录
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR})
 
-add_executable(zoo
-  main.cpp
-  animal.cpp
-  lion.cpp
-  elephant.cpp
+add_executable(pp2-ZooManagementSystem
+${PROJECT_SOURCE_DIR}/main.cpp
+${PROJECT_SOURCE_DIR}/animal.cpp
+${PROJECT_SOURCE_DIR}/lion.cpp
+${PROJECT_SOURCE_DIR}/elephant.cpp
 )
+# 设置可执行文件的输出路径
+set_target_properties(pp2-ZooManagementSystem PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR})
 
-target_include_directories(zoo
+target_include_directories(pp2-ZooManagementSystem
   PRIVATE  # 表示这个目录只会影响这个目标本身，而不会影响依赖这个目标的其他目标。
     ${CMAKE_CURRENT_SOURCE_DIR}
 )

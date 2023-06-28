@@ -1,0 +1,1 @@
+/usr/sbin/c++ "CMakeFiles/pp2-ZooManagementSystem.dir/main.cpp.o" "CMakeFiles/pp2-ZooManagementSystem.dir/animal.cpp.o" "CMakeFiles/pp2-ZooManagementSystem.dir/lion.cpp.o" "CMakeFiles/pp2-ZooManagementSystem.dir/elephant.cpp.o" -o /home/cxk/code/Practise/pp2-ZooManagementSystem/pp2-ZooManagementSystem 

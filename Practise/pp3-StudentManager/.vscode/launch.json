@@ -1,0 +1,26 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",     // 調試器名字
+            "request": "launch",
+            "name": "Debug",    // 定义任务
+
+            // "program": "${workspaceFolder}/build/${fileBasenameNoExtension} ",  // 調試器路徑
+                    //   工作路徑         build       于文件同名的去後綴文件
+            "program": "${command:cmake.launchTargetPath}",  // 启动Cmake的路径
+                // ${command:cmake.launchTargetPath} 是 Visual Studio Code 中的一个变量，
+                // 用于获取当前 CMake 项目生成的可执行文件的完整路径。
+            "args": [],
+            "cwd": "${workspaceFolder}",
+
+            // 前置任务，进入task.json内容
+            // "preLaunchTask": "Build C++",  // 啟動任務之前的調試任務，调用task    
+            "internalConsoleOptions": "neverOpen",   // 用于配置 VS Code 调试器启动时的控制台行为，是否打开控制台
+            "console": "integratedTerminal",    // 用于配置 VS Code 调试器启动时的控制台类型，即在哪里输出程序的标准输出和错误输出信息。
+        }
+    ]
+}
