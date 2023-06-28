@@ -1,3 +1,0 @@
-/home/cxk/code/build/CMakeFiles/hello_world.dir
-/home/cxk/code/build/CMakeFiles/edit_cache.dir
-/home/cxk/code/build/CMakeFiles/rebuild_cache.dir
