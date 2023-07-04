@@ -1,0 +1,3 @@
+/home/cxk/code/build/CMakeFiles/pp1-clangd-cmake.dir
+/home/cxk/code/build/CMakeFiles/edit_cache.dir
+/home/cxk/code/build/CMakeFiles/rebuild_cache.dir
