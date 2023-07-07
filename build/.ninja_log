@@ -1,0 +1,4 @@
+# ninja log v5
+1	1295	1688699635868377715	CMakeFiles/pp1-clangd-cmake.dir/helloword.o	912806bea627f97d
+1	1376	1688699635948377714	CMakeFiles/pp1-clangd-cmake.dir/src/boo.o	a0fd4323c198b6e3
+1376	1636	1688699636218377713	/home/cxk/code/Practise/pp1-clangd-cmake/pp1-clangd-cmake	73be31b84c2dd738
